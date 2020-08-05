@@ -27,6 +27,9 @@ Add 1 to the score if any of the below statements is true
 - Change in Gross Margin is positive (过去一年的毛利率增长了吗?)
 - Change in Asset Turnover is positive (去年的资产周转率是否增长了?)
 
+## Notebook
+See analysis [here](https://github.com/edgetrader/piotroski-score/blob/master/notebook/piotroski-score.ipynb).
+
 ## References
 1. https://www.zhitongcaijing.com/content/detail/316953.html (华文)
 2. https://codingandfun.com/piotroski-f-score/
