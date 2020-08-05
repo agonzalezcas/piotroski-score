@@ -3,6 +3,9 @@
 ## Summary
 This notebook calculates the Piotroski F-Score of all companies in the CSI 300 (沪深300) Index. The score is a number between 0 and 9. Assessing the financial strength of the companies for identifying value stocks.
 
+## Data
+This analysis was first created and written on [JoinQuant](https://www.joinquant.com/) research platform.  Data were gathered using [JQData API](https://www.joinquant.com/data).
+
 ## Calculation
 Add 1 to the score if any of the below statements is true
 
